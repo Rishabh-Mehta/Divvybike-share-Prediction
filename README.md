@@ -33,7 +33,7 @@ We will also be considering weather conditions during our analysis of the data, 
 
 ### Instructions
 
-Dataset is required to run the project which can be downloaded from source link for 2018.
+Dataset is required to run the project which can be downloaded from source link for 2018 also weather data will be required to be downloaded from NOAA site , 2018 data set is included in this project
 
 Run the preprocessing notebook first to have clean and merged dataset for futher operations.Please make sure you 
 have all the necessary packages (that are imported) to use the project without errors.
